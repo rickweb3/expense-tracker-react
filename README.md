@@ -9,9 +9,9 @@
 </p>
 
 
-<h4 align="center"> 
-	#🚧 Expense Tracker - Completed 🚀 🚧
-</h4>
+<h1 align="center"> 
+	🚧 Expense Tracker - Completed 🚀 🚧
+</h1>
 
 
 ## Getting Started with Create React App
