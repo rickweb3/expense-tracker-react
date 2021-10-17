@@ -4,7 +4,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rickweb3/expense-tracker-react">
   </a>
   <a href="">
-    <img alt="Feito por rickweb3" src="https://img.shields.io/badge/desenvolvido%20por-RickWeb-%237519C1">
+    <img alt="Feito por rickweb3" src="https://img.shields.io/badge/desenvolvido%20por-rickweb3-%237519C1">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 </h4>
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
